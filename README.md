@@ -9,10 +9,9 @@ A deliberately exposed environment was monitored for 24 hours using **Microsoft 
 
 ## Architecture
 ### Before Hardening (Exposed)
-![Architecture Before Hardening](https://imgur.com/vZuNxfw.jpg)
+![Architecture Before Hardening](https://i.imgur.com/NfnwHPU.png)
 
-### After Hardening (Secured)
-![Architecture After Hardening](https://imgur.com/cpUtr4y.jpg)
+
 
 ---
 
